@@ -11,5 +11,4 @@ gerris2D -e "OutputSimulation {istep = 1} snap-0.${i}${j}${k}.vtk {format=VTK}" 
 done
 done
 done
-done
-done
+
